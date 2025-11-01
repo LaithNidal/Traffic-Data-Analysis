@@ -19,12 +19,12 @@ Key objectives include:
 **❓ Questions to Be Answered**
 
 This analysis seeks to answer the following questions:
-**1. How does traffic situation vary by the day of the week?
+1. How does traffic situation vary by the day of the week?
 2. What are the correlations between different vehicle types?
 3. How does distribution of traffic situations differ by hour?
 4. What is the total distribution of total vehicle counts for each day of the week?
 5. How does variance in vehicle counts compare across vehicle types?
-6. How does the average vehicle count for each vehicle type change over time?**
+6. How does the average vehicle count for each vehicle type change over time?
 _________________________________________________________________________________________________________________________________________________________________________________________________
 
 
