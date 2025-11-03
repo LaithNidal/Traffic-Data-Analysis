@@ -1,4 +1,4 @@
-## Traffic Data Analysis | Exploratory Data Analysis with Python
+## Traffic Data Analysis | Exploratory Data Analysis with Python - Part 2
 
 This project explores real-world traffic data using Python to uncover insights into traffic flow patterns, vehicle trends, and temporal variations. It demonstrates foundational data analysis, feature engineering, and visualization skills essential for data-driven decision-making.
 
